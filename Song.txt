@@ -5,3 +5,5 @@ and now I'll pull it
 
 I add new branch and 
 do commit
+
+I do 2nd commit
